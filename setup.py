@@ -26,5 +26,11 @@ setuptools.setup(
         "Intended Audience :: Developers",
     ],
     python_requires=">=3.8",
+    keywords=[
+        "timeout",
+        "sleep",
+        "wait",
+        "decorator",
+    ],
     license="MIT",
 )
